@@ -1,11 +1,11 @@
 <div id="course-links">
     <ul>
-      <li><a href="/siteplan/index.php">Site Plan</a></li>
-        <li>Teaching Presentation</li>
-        <li><a href="http://danries.net/student/design-principles.php">Design Principles</a>
-        <li><a href="http://allieglaser.com/index.php">AllieGlaser.com</a>
+      <li><a href="index.php">Home</a></li>
+    
+        <li><a href="/work.php">Assignments</a>
+        <li><a href="http://allieglaser.com">AllieGlaser.com</a>
         </li>
-        <li>site design, copy, logo, and images all &copy; Copyright 2015; GalvestonSandbox.com</li>
+        <li>site design, copy, logo, and images all &copy; Copyright 2018</li>
     </ul> 
 </div>
 
