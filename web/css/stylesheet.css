@@ -135,5 +135,6 @@ body{
 
 .left-image 
 {
+    width: 25vw;
     max-height:100vh;
 }
