@@ -2,7 +2,7 @@
     <ul>
       <li><a href="index.php">Home</a></li>
     
-        <li><a href="/work.php">Assignments</a>
+        <li><a href="work">Assignments</a>
         <li><a href="http://allieglaser.com">AllieGlaser.com</a>
         </li>
         <li>site design, copy, logo, and images all &copy; Copyright 2018</li>
