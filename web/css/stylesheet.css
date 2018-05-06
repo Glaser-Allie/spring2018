@@ -136,5 +136,8 @@ body{
 .left-image 
 {
     width: 25vw;
-    max-height:100vh;
+}
+
+.content-wrapper {
+    width:75vw;
 }
