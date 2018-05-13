@@ -47,7 +47,7 @@ $products = array(
 		'name' => 'Bahama Mama',
 		'type' => 'Tropical',
         'price' => '2.10',
-        'description' => 'Fresh lemon juice, squeezed over shaved ice, a shake of salt, and cayenne pepper. If you like tangy and spicy - you will love the Salty Dog.',
+        'description' => 'Fresh lemon juice, squeezed over shaved ice, a shake of salt, and cayenne pepper. If you like tangy and spicy - you will love this one.',
         'image' => '<img src="images/bahama_mama.png">'
 	),	8 => array(
 		'name' => 'Wedding Cake',
